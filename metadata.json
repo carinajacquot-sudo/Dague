@@ -1,0 +1,6 @@
+{
+  "name": "Prédicteur Aviator",
+  "description": "Application Android d'analyse et de prédiction pour le jeu Aviator avec régression linéaire et scanner de capture d'écran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
